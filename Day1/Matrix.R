@@ -1,5 +1,5 @@
 first.matrix <- matrix(1:12,ncol=4)
-first.matrix
+first.matrix #xxx
 
 matrix(1:12,ncol=4,byrow=TRUE)
 str(first.matrix)
